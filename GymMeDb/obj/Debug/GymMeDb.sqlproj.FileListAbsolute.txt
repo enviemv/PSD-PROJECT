@@ -1,0 +1,6 @@
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\bin\Debug\GymMeDb.dacpac
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\bin\Debug\GymMeDb.dll
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\bin\Debug\GymMeDb.pdb
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\obj\Debug\GymMeDb.sqlproj.AssemblyReference.cache
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\obj\Debug\GymMeDb.dll
+C:\Users\envie\source\repos\GymMe\GymMe\GymMeDb\obj\Debug\GymMeDb.pdb
