@@ -1,0 +1,36 @@
+﻿@model List<GymMe.Models.SupplementViewModel>
+
+@{
+    ViewData["Title"] = "Manage Supplements";
+}
+
+<h2>Manage Supplements</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Expiry Date</th>
+            <th>Price</th>
+            <th>Type</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supplement in Model)
+        {
+            <tr>
+                <td>@supplement.SupplementName</td>
+                <td>@supplement.SupplementExpiryDate.ToShortDateString()</td>
+                <td>@supplement.SupplementPrice</td>
+                <td>@supplement.SupplementTypeName</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@supplement.SupplementID" class="btn btn-warning">Update</a>
+                    <a asp-action="Delete" asp-route-id="@supplement.SupplementID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Insert" class="btn btn-success">Insert New Supplement</a>

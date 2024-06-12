@@ -1,0 +1,38 @@
+﻿@model List<GymMe.Models.TransactionReportViewModel>
+
+@{
+    ViewData["Title"] = "Transactions Report";
+}
+
+<h2>Transactions Report</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction Date</th>
+            <th>Customer Name</th>
+            <th>Total Amount</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+            <tr>
+                <td>@transaction.TransactionDate.ToShortDateString()</td>
+                <td>@transaction.CustomerName</td>
+                <td>@transaction.TotalAmount</td>
+                <td>
+                    <ul>
+                        @foreach (var detail in transaction.TransactionDetails)
+                        {
+                            <li>@detail.SupplementName: @detail.Quantity x @detail.SupplementPrice = @detail.SubTotal</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="GenerateReport" class="btn btn-primary">Generate PDF Report</a>

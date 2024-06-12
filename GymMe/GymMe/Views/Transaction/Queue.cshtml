@@ -1,0 +1,39 @@
+﻿@model List<GymMe.Models.TransactionQueueViewModel>
+
+@{
+    ViewData["Title"] = "Transactions Queue";
+}
+
+<h2>Transactions Queue</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction Date</th>
+            <th>Customer Name</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+            <tr>
+                <td>@transaction.TransactionDate.ToShortDateString()</td>
+                <td>@transaction.CustomerName</td>
+                <td>@transaction.TotalAmount</td>
+                <td>@(transaction.IsHandled ? "Handled" : "Unhandled")</td>
+                <td>
+                    @if (!transaction.IsHandled)
+                    {
+                        <form asp-action="HandleTransaction" method="post">
+                            <input type="hidden" name="transactionId" value="@transaction.TransactionID" />
+                            <button type="submit" class="btn btn-primary">Handle Transaction</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

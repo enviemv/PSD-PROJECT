@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\envie\\source\\repos\\GymMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\supplementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\supplementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\supplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\supplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\models\\transactionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\models\\transactionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\views\\transaction\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\views\\transaction\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|c:\\users\\envie\\source\\repos\\gymme\\gymme\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AF4990-EBDA-4E03-8C98-FE01E092E6A0}|GymMe\\GymMe.csproj|solutionrelative:gymme\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymMe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GymMe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T10:55:05.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GymMe\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:53:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GymMe\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GymMe\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T10:50:51.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GymMe\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GymMe\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwFsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:41:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GymMe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GymMe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:14:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "GymMe\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Data\\SeedData.cs",
+              "RelativeToolTip": "GymMe\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:09:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\appsettings.json",
+              "RelativeDocumentMoniker": "GymMe\\appsettings.json",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\appsettings.json",
+              "RelativeToolTip": "GymMe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T08:28:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Cart.cs",
+              "RelativeToolTip": "GymMe\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:33:56.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupplementType.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\SupplementType.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\SupplementType.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\SupplementType.cs",
+              "RelativeToolTip": "GymMe\\Models\\SupplementType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:13:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Startup.cs",
+              "RelativeDocumentMoniker": "GymMe\\Startup.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Startup.cs",
+              "RelativeToolTip": "GymMe\\Startup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:10:07.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Supplement.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Supplement.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\Supplement.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Supplement.cs",
+              "RelativeToolTip": "GymMe\\Models\\Supplement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:12:59.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GymMe\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Repositories\\Repository.cs",
+              "RelativeToolTip": "GymMe\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:08:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GymMe\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GymMe\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:13:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\User.cs",
+              "RelativeToolTip": "GymMe\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:04:36.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "GymMe\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "GymMe\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:36:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionHeader.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionHeader.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\TransactionHeader.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionHeader.cs",
+              "RelativeToolTip": "GymMe\\Models\\TransactionHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:07:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GymMe\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GymMe\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA8wEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:17:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\Transaction.cs",
+              "RelativeToolTip": "GymMe\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:22:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Program.cs",
+              "RelativeDocumentMoniker": "GymMe\\Program.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Program.cs",
+              "RelativeToolTip": "GymMe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:32:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionDetail.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\TransactionDetail.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionDetail.cs",
+              "RelativeToolTip": "GymMe\\Models\\TransactionDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:22:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Transaction\\History.cshtml",
+              "RelativeDocumentMoniker": "GymMe\\Views\\Transaction\\History.cshtml",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Views\\Transaction\\History.cshtml",
+              "RelativeToolTip": "GymMe\\Views\\Transaction\\History.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:01:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionReportViewModel.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\TransactionReportViewModel.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionReportViewModel.cs",
+              "RelativeToolTip": "GymMe\\Models\\TransactionReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:57:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionViewModel.cs",
+              "RelativeDocumentMoniker": "GymMe\\Models\\TransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Models\\TransactionViewModel.cs",
+              "RelativeToolTip": "GymMe\\Models\\TransactionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:45:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "GymMe\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\envie\\source\\repos\\GymMe\\GymMe\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "GymMe\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:44:36.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
